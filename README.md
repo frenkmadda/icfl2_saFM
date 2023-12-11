@@ -1,4 +1,4 @@
-A project in collaboration with University of Salerno and the Professors Rosalba Zizza, Rocco Zaccagnino.
+A Thesis project in collaboration with University of Salerno and the Professors Rosalba Zizza, Rocco Zaccagnino.
 The project scope was to optimize an application C that calculate Suffix Array.
 My work was:
 1.Optimization of the code and adding memory managing.
